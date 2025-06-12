@@ -1,0 +1,3 @@
+SELECT * 
+FROM stedi_project.accelerometer_trusted
+LIMIT 10;
